@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "fuck.you.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinClientConnection",
+    "MixinPlaceBlock",
+    "MixinPlayerEntity",
+    "MixinDrawOverlay"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

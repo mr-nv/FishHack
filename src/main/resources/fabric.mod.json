@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "coordlogger",
+  "version": "${version}",
+
+  "name": "FishHack",
+  "description": "beste (((not pasted))) hake",
+  "authors": [
+    "ayywareseller"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://naebshop.ru/"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/coordlogger/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fuck.you.FishHack"
+    ]
+  },
+  "mixins": [
+    "coordlogger.mixins.json"
+  ]
+}
